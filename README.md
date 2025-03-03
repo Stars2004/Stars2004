@@ -1,27 +1,30 @@
-# Hi, I'm [你的名字] 👋
+# Hi, I'm CountingStars 👋
 
-欢迎来到我的 GitHub 主页！
+<!-- 标题和简介 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+👋,+I'm+CountingStars;Welcome+to+my+GitHub!" alt="动态打字效果" />
+</div>
 
 ## 关于我
 
-- 🔭 目前正在从事：<em>你的项目或工作内容</em>
-- 🌱 目前正在学习：<em>你正在学习的技术或领域</em>
-- 👯 希望合作：<em>你希望合作的方向</em>
+- 🔭 目前正在从事：<em>大学生一只</em>
+- 🌱 目前正在学习：<em>Deep Learning, Computer Vision</em>
+- 👯 希望合作：<em>None</em>
 - 🤔 需要帮助：<em>你需要帮助的领域</em>
 - 💬 欢迎讨论：<em>你感兴趣的话题</em>
-- 📫 联系方式：<em>你的电子邮箱或其他联系方式</em>
-- ⚡ 小趣事：<em>一个有趣的小事实</em>
+- 📫 联系方式：<em>1455099115@qq.com</em>
+- ⚡ 小趣事：<em>我是 go 学长</em>
 
 ## 我的技能
 
-- **编程语言：** JavaScript, Python, C++
+- **编程语言：** Python, C++
 - **开发工具：** Git, Docker, VS Code
-- **其他：** 数据分析、机器学习
+- **其他：** 数据分析、机器学习、深度学习
 
 ## 我的项目
 
-- [项目名称](项目链接) - 简短描述
-- [项目名称](项目链接) - 简短描述
+- [Hello World](项目链接) - 简短描述
+- [Haha](项目链接) - 简短描述
 
 ## GitHub 统计
 
