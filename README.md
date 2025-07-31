@@ -2,7 +2,7 @@
 
 <!-- 标题和简介 -->
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+👋,+I'm+CountingStars;Welcome+to+my+GitHub!" alt="动态打字效果" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+👋,+I'm+CountingStars.;Welcome+to+my+GitHub!" alt="动态打字效果" />
 </div>
 
 ## 关于我
