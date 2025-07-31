@@ -2,22 +2,22 @@
 
 <!-- 标题和简介 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+👋,+I'm+CountingStars;Welcome+to+my+GitHub!" alt="动态打字效果" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+👋,+I'm+CountingStars;Welcome+to+my+GitHub!" alt="动态打字效果" />
 </div>
 
 ## 关于我
 
-- 🔭 目前正在从事：<em>大学生一只</em>
+- 🔭 目前正在从事：<em>研究生一只</em>
 - 🌱 目前正在学习：<em>Deep Learning, Computer Vision</em>
 - 👯 希望合作：<em>None</em>
 - 🤔 需要帮助：<em>你需要帮助的领域</em>
 - 💬 欢迎讨论：<em>你感兴趣的话题</em>
 - 📫 联系方式：<em>1455099115@qq.com</em>
-- ⚡ 小趣事：<em>我是 go 学长</em>
+- ⚡ 小趣事：<em>我是 go 学长，也是 瓦 学弟。</em>
 
 ## 我的技能
 
-- **编程语言：** Python, C++
+- **编程语言：** Python, Matlab, Java, C++
 - **开发工具：** Git, Docker, VS Code
 - **其他：** 数据分析、机器学习、深度学习
 
